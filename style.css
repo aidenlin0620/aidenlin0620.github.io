@@ -63,3 +63,11 @@ footer {
   background-color: #203b57;
   color: white;
 }
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: #bce5e4;
+}
